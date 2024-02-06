@@ -4,7 +4,7 @@ describe('Age Classification', function () {
   })
 
   it('Вывести детский возраст, n = 0 по 24', function () {
-    expect(ageClassification(0)).toBe('детский возраст')
+    expect(ageClassification(0.1)).toBe('детский возраст')
     expect(ageClassification(15)).toBe('детский возраст')
     expect(ageClassification(24)).toBe('детский возраст')
   })

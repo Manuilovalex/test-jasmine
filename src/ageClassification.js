@@ -25,6 +25,7 @@ var ageClassification = function (n) {
     : null
 }
 
+
 console.log('-1 :', ageClassification(-1)) // -1 : null
 
 console.log('5 :', ageClassification(5)) // 5 : детский возраст
