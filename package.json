@@ -1,0 +1,9 @@
+{
+  "name": "test-jasmine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jasmine": "^5.1.4"
+  }
+}
